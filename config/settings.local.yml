@@ -1,0 +1,7 @@
+omniauth:
+  google:
+    api_key: "1065134379485-ohlarkb20e801asp6h39r27f74o378mk.apps.googleusercontent.com"
+    api_secret: "zIF4smJldIzexMxuBr-rpYhd"
+  zoom:
+    api_key: "fRernBoHTVGvLxu4Pd4A"
+    api_secret: "VNj0inrD64Opch7NCCqKLHybFPEr2loQ"
